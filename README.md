@@ -3,6 +3,7 @@
 TP2 est un projet Java personnel qui utilise Maven comme gestionnaire de dépendances. Ce projet a pour but de démontrer la structure standard d'un projet Java et d'expérimenter avec des fonctionnalités de base.
 
 ## Structure du Projet
+```
 TP2/
 ├── .idea/
 ├── src/
@@ -26,6 +27,7 @@ TP2/
 ├── mvnw
 ├── mvnw.cmd
 └── pom.xml
+```
 
 ## Technologies Utilisées
 - Java : Langage de programmation principal.
